@@ -1,0 +1,63 @@
+﻿  AnimatedSprite.cpp
+  Bullet.cpp
+Bullet.cpp(58): warning C4018: '<': signed/unsigned mismatch
+Bullet.cpp(79): warning C4018: '<': signed/unsigned mismatch
+Bullet.cpp(94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  CharObject.cpp
+  Effect.cpp
+Effect.cpp(75): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  Enemy.cpp
+Enemy.cpp(29): warning C4018: '<': signed/unsigned mismatch
+Enemy.cpp(85): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+Enemy.cpp(130): warning C4018: '<': signed/unsigned mismatch
+Enemy.cpp(164): warning C4018: '<': signed/unsigned mismatch
+Enemy.cpp(180): warning C4018: '<': signed/unsigned mismatch
+Enemy.cpp(192): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Enemy.cpp(201): warning C4018: '<': signed/unsigned mismatch
+Enemy.cpp(206): warning C4018: '<': signed/unsigned mismatch
+Enemy.cpp(216): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+Game.cpp(46): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+Game.cpp(50): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Game.cpp(53): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  GameResources.cpp
+  HighScore.cpp
+  ItemPickup.cpp
+ItemPickup.cpp(59): warning C4018: '<': signed/unsigned mismatch
+ItemPickup.cpp(80): warning C4018: '<': signed/unsigned mismatch
+ItemPickup.cpp(89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+main.cpp(5): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Map.cpp
+  MenuButton.cpp
+MenuButton.cpp(12): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+MenuButton.cpp(17): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+MenuButton.cpp(22): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+MenuButton.cpp(180): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Player.cpp
+Player.cpp(104): warning C4018: '<': signed/unsigned mismatch
+  SceneGame.cpp
+SceneGame.cpp(16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+SceneGame.cpp(40): warning C4018: '<': signed/unsigned mismatch
+SceneGame.cpp(68): warning C4018: '<': signed/unsigned mismatch
+SceneGame.cpp(126): warning C4018: '<': signed/unsigned mismatch
+SceneGame.cpp(128): warning C4018: '<': signed/unsigned mismatch
+SceneGame.cpp(178): warning C4018: '<': signed/unsigned mismatch
+SceneGame.cpp(193): warning C4244: 'initializing': conversion from 'const float' to 'unsigned int', possible loss of data
+SceneGame.cpp(194): warning C4244: 'initializing': conversion from 'const float' to 'unsigned int', possible loss of data
+SceneGame.cpp(198): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+SceneGame.cpp(248): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+SceneGame.cpp(248): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+SceneGame.cpp(250): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+SceneGame.cpp(255): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+SceneGame.cpp(259): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  SceneMainMenu.cpp
+  SoundEngine.cpp
+  Spawner.cpp
+  UIsystem.cpp
+UIsystem.cpp(67): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+UIsystem.cpp(71): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Generating code
+  All 1961 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameProject.vcxproj -> D:\Google Drive\KMITLproject Y1S1\Game Project\Final\SourceCode\Project\MasterOfBattleArena\Release\GameProject.exe
